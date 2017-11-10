@@ -1,6 +1,6 @@
 '''
-When you are playing crossword and you found that you only know some specific letters, you will see
-how amazing this program is.
+When you are playing crossword and you found that you only know some specific
+letters, you will see how amazing this program is.
 '''
 
 import re
